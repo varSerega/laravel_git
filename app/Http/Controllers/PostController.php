@@ -10,5 +10,9 @@ class PostController extends Controller
     {
         return '';
     }
+    public function Method2()
+    {
+        return '';
+    }
 
 }
