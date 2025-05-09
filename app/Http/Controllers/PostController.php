@@ -6,5 +6,9 @@ use Illuminate\Http\Request;
 
 class PostController extends Controller
 {
-    //
+    public function MethodGit2()
+    {
+        return '';
+    }
+
 }
